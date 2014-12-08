@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://antonjs.github.io/summer-studentship-labbook/sitemap.xml 
